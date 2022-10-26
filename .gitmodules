@@ -1,0 +1,3 @@
+[submodule "dvc_test"]
+	path = dvc_test
+	url = https://github.com/sgdoyeon/dvc_test.git
